@@ -33,7 +33,7 @@
     "html-webpack-plugin": "^5.5.3",
     "jest": "^29.6.1",
     "jest-environment-jsdom": "^29.6.1",
-    "msw": "^1.2.2",
+    "msw": "^2.4.10",
     "string-replace-loader": "^3.1.0",
     "style-loader": "^3.3.3",
     "webpack": "^5.88.1",
